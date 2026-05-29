@@ -1,0 +1,7 @@
+print upper$("hello from the playground")
+for n = 1 to 5
+  print "tick " + str$(n)
+  wait ms(300)
+next
+x = rnd(100)
+y = x * 2

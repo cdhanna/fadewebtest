@@ -1,0 +1,9 @@
+{
+  "$schema": "/fade.schema.json",
+  "name": "default",
+  "type": "web",
+  "commandDlls": [],
+  "sources": [
+    "main.fbasic"
+  ]
+}
